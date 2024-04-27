@@ -1,5 +1,5 @@
 {
-    "name": "sassnowski/laravel-shareable-models",
+    "name": "buildstash/laravel-shareable-models",
     "description": "Create shareable links from your eloquent models.",
     "license": "MIT",
     "type": "library",
